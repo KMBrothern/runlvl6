@@ -1,4 +1,4 @@
-baseurl             = "http://www.runlvl6.com/" # Must end with /
+baseurl             = "https://www.runlvl6.com/" # Must end with /
 languageCode        = "en-us"
 title               = "Introduction"
 theme               = "introduction"
