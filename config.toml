@@ -18,7 +18,7 @@ blog  = "blog/:slug/"
 [params]
 author        = "Keyasha B" # Full name shows on blog post pages
 firstname     = "Keyasha" # First name shows in introduction on main page
-tagline       = "I'm a Software Developer, WOC in Tech, and Generally Dope AF Human." # Appears after the introduction
+tagline       = "I'm a Software Developer, WOC in Tech & Generally Dope AF Human." # Appears after the introduction
 introheight   = "large" # Input either 'medium' or 'large' or 'fullheight'
 theme         = "light" # Choose 'light' or 'dark'
 # avatar        = "img/profile.png" # Path to image in static folder eg. img/avatar.png, or comment out to remove
