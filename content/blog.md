@@ -1,8 +1,8 @@
 +++
 date = "2017-08-10"
-title = "About"
+title = "Blog"
 menu = "main"
-url = "about/"
+url = "posts/"
 hide = "true"
 +++
 **Hello World!**

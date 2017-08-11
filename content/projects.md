@@ -1,8 +1,7 @@
 +++
 date = "2017-08-10"
-title = "About"
+title = "Projects"
 menu = "main"
-url = "about/"
+url = "projects/"
 hide = "true"
 +++
-**Hello World!**
