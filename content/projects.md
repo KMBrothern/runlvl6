@@ -5,3 +5,4 @@ menu = "main"
 url = "projects/"
 hide = "true"
 +++
+Hello Projects!
