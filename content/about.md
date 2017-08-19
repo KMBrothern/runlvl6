@@ -23,7 +23,7 @@ I am **Keyasha** > I am a **woc in tech** > I am **The Reboot** > I am **Run Lvl
 
 ---
 *Disclaimer:
-I may occasionaly make reference to 'God/Jesus/relationship' in my posts, that's just a differnt part of me. I understand that you may not agree/be offended/'insert here' and while that is not my intent, It's ok if you want to click the X on this tab. But I find it neccessary and important for me to be my authentic self in my space. I'm a beliver but I curse a ~~lot~~ little.*
+I may occasionaly make reference to 'God/Jesus/insert 'thing' here' in my posts, that's just a differnt part of me. I understand that you may not agree/be offended/other and while that is not my intent, It's ok if you want to click the X on this tab. But I find it neccessary and important for me to be my authentic self in my space while documenting my journey. I'm multi-faceted 💎 and may curse a ~~lot~~ little, ❤️ God & Trap Music, Anime and 🏀 is Life.*
 
 
 
