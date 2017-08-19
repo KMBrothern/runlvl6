@@ -5,4 +5,4 @@ menu = "main"
 url = "projects/"
 hide = "true"
 +++
-Hello Projects!
+Hey 👋🏿. This is where my projects will live once I update this page. Please check back soon!

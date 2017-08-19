@@ -1,7 +1,8 @@
 ---
 title: "Authenticity"
 date: 2017-08-10T17:42:12-05:00
-draft: true
+draft: false
+tags: ["KB's thoughts"]
 ---
 
 
@@ -16,22 +17,24 @@ Bound by survival's demands to conform or be left behind. Having to be who "they
 
 Recently I listened to a sermon given by Sarah Jakes Roberts of One LA church and she spoke about authenticity and it really resonated with me. Especially when she said this:
 
-Authenticity creates boundaries.
 
-Authenticity creates standards.
+>Authenticity creates **boundaries**.
 
-Authenticity requires that there are limitations to what you can do to me.
+>Authenticity creates **standards**.
 
-Authenticity dictates that there are limitations to what you can say to me.
+>Authenticity requires that there are limitations to what you can **do to me**.
 
-And when people cannot connect to your authenticity, you should leave them where they stand.
+>Authenticity dictates that there are limitations to what you can **say to me**.
+
+>And when people **cannot connect** to your authenticity, you should leave them where they stand.
+
 
 If I am not your culture fit, then that's fine with me. If my name is too "ethnic" for you to consider professional, then that's fine with me. If you don't really want diversity and inclusion at your company, then that's fine with me. If you don't want someone on your team who is willing to share ideas and challenge the status quo, then that's fine with me.
 
-But I will not be your punching bag. I will not be your stepping stone. I will not be meek and shade my own intelligence for the sake of your ego. I will not put rosy spins on ugly situations. I will not let you disrespect me, for any reason, at any time.
+But I will not be your punching bag. I will not be your stepping stone. I will not be meek and shade my own intelligence for the sake of your ego. I will not put rosy spins on ugly situations. I will not let you disrespect me, for any reason, at any time. I will not use time, energy and effort trying to force a square peg in a round hole.
 
-I will collaborate with you. I will challenge you. I will grow, learn and share with you. I will be a professional. I will succeed, whether you want to have a hand in it or not. I will be the person that I have been called to be and this little light of mine -- I'm going to let it shine. I'm serving my two weeks notice to 2017 and beyond.
+However, in an supportive and inclusive environment I will collaborate with you. I will challenge you. I will grow, learn and share with you. I will be a professional. But most importantly, I will succeed whether you want to have a hand in it or not. I will be the person that I have been called to be and this little light of mine -- I'm going to let it shine. I'm serving my two weeks notice to 2017 and beyond.
 
 
 
-My AUTHENTICITY is not for sale.
+My **AUTHENTICITY** is not for sale.

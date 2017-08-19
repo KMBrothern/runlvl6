@@ -8,8 +8,8 @@ googleAnalytics = ""
 paginate = 5
 
 [params]
-    title = "Run Lvl 6"
-    subtitle = "Inner Ramblings Of A Rebooting, Learning Developer & Optimistic ~~Pessimist~~"
+    title = "Run Lvl 6: I am the Reboot"
+    subtitle = "The Inner Ramblings Of A Rebooting, Learning Developer, WOC in Tech & Optimistic ~~Pessimist~~"
     copyright = ""
 
     useSummaryIfNoDescription = true
@@ -31,7 +31,7 @@ paginate = 5
     # Link your social networks (optional)
     location = ""
     twitter = "kbrunlvl6"
-    linkedin = ""
+    linkedin = "keyashabrothern"
     googleplus = ""
     facebook = ""
     instagram = ""
