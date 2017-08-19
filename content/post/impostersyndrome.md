@@ -1,7 +1,7 @@
 ---
 title: "Imposter Syndrome : A Mental Dilemma"
 date: 2017-08-19T00:58:45-05:00
-draft: true
+draft: false
 tags: ["KB's thoughts"]
 ---
 
