@@ -1,8 +1,7 @@
 ---
 title: Why Swift?
-date: 08-26-2017
+date: 2017-08-29
 draft: true
-categories: ["Development"]
 tags: ["Swift", "Beginner"]
 ---
 
